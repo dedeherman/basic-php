@@ -119,7 +119,7 @@
             echo "<br>Alas: $a<br>";
             echo "Tinggi: $t<br>";
             $luas = Rumus2 * $a * $t;
-            echo "Luas Segi Tiga: $luas";
+            echo "Luas Segi Tiga: $luas<br><br>";
 
             # end tugas 4
 
